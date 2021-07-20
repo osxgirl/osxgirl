@@ -1,4 +1,4 @@
-# ruby-getting-started
+# osxgirl
 
 A barebones Rails app, which can easily be deployed to Heroku.
 
