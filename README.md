@@ -2,14 +2,10 @@
 
 ## Hello! 
 
-The web is a really fun place to make content! I have been creating sites since we sliced them in Photoshop and added them to tables in Dreamweaver in 1998. Flash was a blast in 2001! It was great grabbing the attention of the consumer in seconds with animations! 
-
-<b>Hello iPhone in 2007</b>. Then, we got smart, CSS and SEO were introduced in 2010 to help us with our search queries in Google. In 2014 I had a blast building websites superfast with the Wix platform, so fast I built a web development business overnight and trained others on the Wix software suite! 
-
-I got this feeling <i>deep</i> in my bones in 2016. I thought about the iPhone and how all the new apps were built and I had no idea where to start, but I knew the apps were not going anywhere. I knew I could learn! 
-
-So I took a Swift Playgrounds class at the Apple Store with my new iPad. Then started The Flatiron School in 2017. I had a 1 year old at the time so my learning pace was not focused nor ideal. But I kept at it.
-The rest is here in my commits. The times I have no commits are times I am working full-time (not-coding, but it is a dream!) and being a full-time mom too.
-
-Thanks for reading, I love this stuff! Thanks STEVE JOBS! Thanks Avi Flombaum!
+The web has always been such a fun place to create! I’ve been building sites since the days of slicing them in Photoshop and dropping them into tables in Dreamweaver back in 1998. Flash was a total blast in 2001—grabbing attention with animations in just seconds felt like magic!
+Hello iPhone, 2007. Then came CSS and SEO around 2010, making search and design smarter. By 2014, I was zooming through website builds with Wix so fast that I launched a web development business practically overnight—and even trained others on the platform!
+Something stirred deep in my bones in 2016. I looked at all these apps popping up and thought, where do I even start? But I knew apps weren’t going anywhere—and I knew I could learn.
+I started small with a Swift Playgrounds class at the Apple Store using my new iPad. Then, in 2017, I dove into The Flatiron School. I had a one-year-old at the time, so my learning pace was… let’s say, “flexible.” But I kept going, driven by curiosity and excitement.
+The rest of my journey is here in my commits. The gaps? Those are the times I’m working full-time (not coding, though it’s a dream!) and being a full-time mom too.
+Thanks for reading—I love this stuff! Thank you, Steve Jobs! Thank you, Avi Flombaum!
 
