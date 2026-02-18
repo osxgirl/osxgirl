@@ -1,6 +1,6 @@
 # osxgirl
 
-## QA-focused designer and strategist who builds automation frameworks for modern commerce platforms where digital and physical products intersect. She specializes in creating seamless phygital systems that bridge creative vision with technical reliability, ensuring quality from initial ad exposure to final product unboxing.
+## QA-focused designer and strategist who builds automation frameworks for modern commerce platforms where digital and physical products intersect. I specialize in creating seamless phygital systems that bridge creative vision with technical reliability, ensuring quality from initial ad exposure to final product unboxing.
 
 The web has always been such a fun place to create! I’ve been building sites since the days of slicing them in Photoshop and dropping them into tables in Dreamweaver back in 1998. Flash was a total blast in 2001—grabbing attention with animations in just seconds felt like magic!
 
